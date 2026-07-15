@@ -1,24 +1,74 @@
-# 💫 About Me:
-👋Developer who’s passionate about crafting fast, secure, and user-friendly applications 🚀.<br>With my toolkit full of MERN stack magic (MongoDB, Express, React, Node.js) and a dash of HTML, CSS, and JavaScript 🛠️, <br>I turn ideas into digital solutions that actually drive results.<br><br>Whether it's designing sleek websites or building scalable applications,<br>I'm always on the lookout for creative challenges 💡. <br>Let’s build something awesome together! 😎<br><br>Find me on LinkedIn for more updates or just to say hi!
+<h1 align="center">Syed Bital Ali</h1>
+<h3 align="center">MERN Developer · I make MongoDB, Express, React, and Node behave</h3>
 
+<p align="center">
+  Apps in the Play Store. Stores that actually take payments. Websites that load before you finish blinking. No "coming soon" tabs.
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BitalSyed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bitalsyed/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syedbitalal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://skillrextech.com/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BitalSyed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BitalSyed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BitalSyed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BitalSyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedbitalali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://skillrextech.com"><img src="https://img.shields.io/badge/Portfolio-skillrextech.com-black?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:bitalali786@gmail.com"><img src="https://img.shields.io/badge/Email-bitalali786%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BitalSyed&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+MERN is home base, and I'm comfortable enough in React Native, WordPress internals, and Shopify's Liquid templating to not flinch when a client hands me one of those instead. I run **SkillRex Tech**, a dev agency, mostly for international clients who want their idea to become something that actually loads and doesn't fall over on launch day.
+
+I'm not going to tell you I do "everything" — I don't. But the things above, I do well, and I ship them: a fitness app that's live on the Play Store, e-commerce stores that process real money, and sites that don't need a "please wait" spinner apologizing for themselves.
+
+## What I Work With
+
+**Frontend** — React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+**Backend** — Node.js, Express.js, PHP, REST APIs, JWT/OAuth, Payment Gateway Integration
+**Mobile** — React Native (published on Google Play Store)
+**CMS & E-Commerce** — WordPress Plugin Development, Shopify (Liquid), Custom Post Types
+**Databases** — MongoDB, MySQL, Firebase
+**DevOps & Tools** — Nginx, Apache, Git/GitHub, SEO Optimization, Performance Tuning
+
+## Featured Work
+
+**[BeFAB-NCCU](https://play.google.com/store)** — Health & fitness mobile app published on Google Play. Built with React Native, Node.js, Express.js, MongoDB, and Firebase. Includes health dashboards, meal logging with barcode scanning, and community leaderboards, with privacy-first, consent-based data handling.
+
+**Al-Rehman Pharmacy & Cosmetics** — Shopify-based pharmacy e-commerce store with a catalogue of 11,000+ medicine and cosmetics categories, optimized checkout, and mobile-first design.
+
+**NCChatter** — Real-time community chat and content platform built with React, Node.js, Express.js, and MongoDB, featuring dynamic feeds and role-based content moderation.
+
+**Automerce Solutions** — Agency website with a multi-tab interactive pricing system covering 35 packages across 9 service categories, built on WordPress with custom JavaScript.
+
+Additional client projects (custom.trs16.com, trs16.com, socialinsighter.com, bcnkebab.com) are available on my GitHub and portfolio.
+
+## Experience
+
+**Freelance Developer** — Self-Employed · *Aug 2023 – Present*
+Building web and mobile applications for international clients, end to end; cut average app load times by up to 40% through caching, query optimization, and server tuning.
+
+**WordPress & Server Intern** — Securities and Exchange Commission of Pakistan (SECP) · *2025*
+Built custom WordPress plugins and hardened Nginx server configurations for internal CMS systems.
+
+## Education
+
+**BS Computer Science** — Quaid-e-Azam University, Islamabad · *Dec 2024*
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BitalSyed&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitalSyed&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitalSyed&theme=dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedbitalali">LinkedIn</a> ·
+  <a href="https://skillrextech.com">skillrextech.com</a> ·
+  <a href="mailto:bitalali786@gmail.com">bitalali786@gmail.com</a>
+</p>
