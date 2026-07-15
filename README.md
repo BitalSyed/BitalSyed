@@ -32,13 +32,13 @@ I'm not going to tell you I do "everything" — I don't. But the things above, I
 
 **[BeFAB-NCCU](https://play.google.com/store)** — Health & fitness mobile app published on Google Play. Built with React Native, Node.js, Express.js, MongoDB, and Firebase. Includes health dashboards, meal logging with barcode scanning, and community leaderboards, with privacy-first, consent-based data handling.
 
-**Al-Rehman Pharmacy & Cosmetics** — Shopify-based pharmacy e-commerce store with a catalogue of 11,000+ medicine and cosmetics categories, optimized checkout, and mobile-first design.
+**Computer Lab** — E-commerce store for gaming PCs and components (graphics cards, and other build parts), with product catalogues, cart, and checkout built for a hardware-heavy inventory.
 
 **NCChatter** — Real-time community chat and content platform built with React, Node.js, Express.js, and MongoDB, featuring dynamic feeds and role-based content moderation.
 
-**Automerce Solutions** — Agency website with a multi-tab interactive pricing system covering 35 packages across 9 service categories, built on WordPress with custom JavaScript.
+**Home Security Control App** — Custom application for controlling home security systems, including live camera feeds alongside other connected home devices, from a single interface.
 
-Additional client projects (custom.trs16.com, trs16.com, socialinsighter.com, bcnkebab.com) are available on my GitHub and portfolio.
+Additional client projects (custom.trs16.com, trs16.com, socialinsighter.com, bcnkebab.com, ++ etc) are available on my GitHub and portfolio.
 
 ## Experience
 
