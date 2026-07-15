@@ -38,7 +38,7 @@ I'm not going to tell you I do "everything" — I don't. But the things above, I
 
 **Home Security Control App** — Custom application for controlling home security systems, including live camera feeds alongside other connected home devices, from a single interface.
 
-Additional client projects (custom.trs16.com, trs16.com, socialinsighter.com, bcnkebab.com, ++ etc) are available on my GitHub and portfolio.
+Additional client projects (custom.trs16.com, trs16.com, socialinsighter.com, bcnkebab.com) are available on my GitHub and portfolio.
 
 ## Experience
 
